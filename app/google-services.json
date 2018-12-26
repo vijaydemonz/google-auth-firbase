@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "178540070534",
+    "firebase_url": "https://application-vijay1.firebaseio.com",
+    "project_id": "application-vijay1",
+    "storage_bucket": "application-vijay1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178540070534:android:1ccc267597490f0a",
+        "android_client_info": {
+          "package_name": "com.example.vijaydemonz.cloudmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178540070534-9prfkoibjjpe2rqfjipnq66u91j5ihmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vijaydemonz.cloudmedia",
+            "certificate_hash": "7261b0637c216e16a3f76dd9bd50643a2a67d025"
+          }
+        },
+        {
+          "client_id": "178540070534-ckmonrqa4srj3rt0gl2e3884pl5il5lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC6TMqZY3obOhfOFCYEsqyzIKg_31BxOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178540070534-ckmonrqa4srj3rt0gl2e3884pl5il5lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
